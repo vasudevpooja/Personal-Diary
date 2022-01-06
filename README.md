@@ -1,78 +1,61 @@
-# C Programs for Beginners
-C programs on various topics of C Programming such as array, strings, series, area & volume of 
-geometrical figures, mathematical calculation, sorting & searching algorithms and many more.
-# Arrays
-1. [To arrange numbers in ascending order]()
-2. [To Calculate Standard Deviation]()
-3. [To find the Largest Element in an Array](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Largest)
-4. [To find the Number of Elements in an Array]()
-5. [Multiply Two Matrices Using Multi-dimensional Arrays]()
-6. [Swap Numbers in Cyclic Order Using Call by Reference]()
-7. [To Find Transpose of a Matrix]()
-# Conversion
-1. [Convert Binary Number to Decimal Number]()
-2. [Convert Decimal Number to Binary Number]()
-3. [Convert Decimal to Octal Number]()
-4. [Convert Octal Number to Decimal Number]()
-5. [Convert Binary to Octal Number System]()
-6. [Convert Octal Number to Binary Number]()
-# Find out areas of Geometric Figures
-1. [Calculate Area and Circumference of Circle]()
-2. [Calculate Area of Equilatral triangle]()
-# Patterns
-1. [To find Half pyramid (Alphabets)](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Half%20Pyramid-Alphabets)
-2. [To find Half pyramid (Numbers)](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Half%20Pyramid-%20Numbers)
-3. [To find Half pyramid (Stars)](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Half%20Pyramid-Stars)
-4. [To find Half pyramid (Inverted Stars)](https://github.com/vasudevpooja/C-Programs-ForBeginners/blob/main/Half%20Pyramid-%20Inverted%20Stars/halfpyrinvstars.c)
-5. [To find Full pyramid (Numbers)](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Full%20Pyramid-%20Numbers)
-6. [To find Full pyramid (Stars)](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Full%20Pyramid-Stars)
-# Pointers
-1. [To Count Vowels and Consonants in a String]()
-2. [To create, initialize and access a pointer variable]()
-3. [To Find the Largest of three numbers]()
-4. [To Print String]()
-5. [To Swap two numbers]()
-6. [To find sum of array elements]()
-# Programs on Calculation
-1. [To find the Average of two numbers]()
-2. [To Multiply two Floating Point Numbers]()
-3. [To check the Permutation (nPr) and Combination (nCr)](https://github.com/vasudevpooja/CPrograms-For-Beginners/tree/main/nPr_nCr)
-4. [To Find Quotient and Remainder]()
-# Recursion
-1. [To find sum of array elements]()
-2. [To find the Factorial of a number](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Factorial)
-3. [To find the GCD](https://github.com/vasudevpooja/C-Programs-For-Beginners/tree/main/GCD)
-4. [To calculate the power]()
-# Simple C Programs
-1. [To find the Addition of two Matrices](https://github.com/vasudevpooja/C-Programs-ForBeginners/blob/main/Add%20Matrix/AddMatrix.c)
-2. [To find whether a number is an Armstrong Number or not](https://github.com/vasudevpooja/CPrograms-For-Beginners/blob/main/Armstrong/Armstrong.c)
-3. [To find the ASCII value of a number](https://github.com/vasudevpooja/C-Programs-ForBeginners/blob/main/ASCII/ASCII.c)
-4. [To find the Current Date and Time of a system](https://github.com/vasudevpooja/C-ProgramsFor-Beginners/blob/main/Date_Time/Date_Time.c)
-5. [To find the Determinant](https://github.com/vasudevpooja/C-Programs-ForBeginners/blob/main/Determinant/Determinant.c)
-6. [To check if number is even or odd]()
-7. [To find the Fibonacci Series](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Fibonacci)
-8. [To Generate Multiplication Table]()
-9. [To find greatest of three numbers]()
-10. [To check whether the given integer is positive or negative]()
-11. [To find whether a number is a Palindrome or not](https://github.com/vasudevpooja/CPrograms-For-Beginners/tree/main/Palindrome)
-12. [To check if it's a Leap Year]()
-13. [To find if a number is a Perfect Square or not](https://github.com/vasudevpooja/C-ProgramsFor-Beginners/blob/main/Perfect%20Square/Perfect_Square.c)
-14. [To find prime numbers in a given range]()
-15. [To find the Roots of Quadratic Equation](https://github.com/vasudevpooja/C-Programs-ForBeginners/blob/main/Quadratic/Quadratic.c)
-16. [A Simple Calculator](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Simple%20Calculator)
-17. [To find the Size of int, float, double and char]()
-18. [To find the Sum of First n Natural numbers]()
-19. [To change background colour of a text](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Text)
-20. [To check if a string has Vowels](https://github.com/vasudevpooja/C-Programs-ForBeginners/tree/main/Vowels)
-# String Programs
-1. [To Reverse a String](https://github.com/vasudevpooja/C-Programs-ForBeginners/blob/main/Reverse/Reverse.c)
-2. [To convert uppercase string to lowercase string]()
-3. [To convert lowercase string to uppercase string]()
-4. [To Sort set of strings in alphabetical order]()
-5. [To find the length of a String without using function strlen()]()
-6. [To concatenate two strings without using strcat]()
-# Sorting Programs
-1. [Bubble sorting]()
-2. [Insertion Sort]()
-3. [Selection Sort]()
-4. [Quicksort]()
+# [Employee Record System]()
+The main features of this project include basic file handling operations. with pointers, 
+files, and arrays implemented.
+**Features:** 
+ • Add record
+ • List record
+ • Modify record
+ • Delete record
+The functions used in this project are simple and they basically manipulate file 
+handling and data structures. 
+# [Library Management System](https://github.com/vasudevpooja/LibraryManagement/blob/main/Library%20Management-Code.c) 
+This system is based on a concept to store and generate all the records of the 
+books in the library. This is also considered as a simple database of book recording 
+where the user can store books’ records easily as it is not time-consuming. 
+Moreover, the user can add the book’s details, view a list of books, and so on. 
+**The user is allowed to: **
+ • Add Books 
+ • Delete Book 
+ • Search Book 
+ • View Book List 
+ • Edit Book Record 
+# [Phonebook Management System]()
+**Features:**
+ 1. **Add phone record:**
+This features adds a new phone record to the file. It asks for the phone number and 
+name of the person whose record is to be created.
+ 
+ 2. **Search phone records:** 
+ This function is where users can search for a phone record either by providing the
+phone number or by the name of a particular person whose record has already been 
+added in the file.
+ 3. **Show phone records:** 
+This allows user to list all the phone records stored in file. The information displayed 
+here are phone record number, phone number and the person’s name.
+ 4. **Modify phone record:** 
+This allows the user to edit the phone number and person name corresponding to a 
+particular phone record. 
+ 5. **Delete phone record:** 
+This deletes added phone record from the file. The user needs to provided the 
+phone number to be deleted from phonebook management system. 
+# [Personal Diary 
+Project](https://github.com/vasudevpooja/PersonalDiary/blob/main/Personal%20Diar
+y.c) 
+This project was created in a simple console application. The system is strictly 
+prohibited to be access openly. 
+**The user is allowed to:** 
+ • Add Record 
+ • View Record 
+ • Edit Record 
+ • Delete Record 
+The system can provide all necessary functions that can manage the diary detail 
+that’s been recorded. The user will also need to enter a password to view, edit or 
+delete record. Password is not required to view the main menu or to add record. 
+# The user-defined functions used in this project are listed below: 
+ • **int password()** – contains/manages/handles password protection 
+ • **void addrecord()** – to add new diary record 
+ • **void viewrecord()** – to view added record in list 
+ • **void editrecord()**– to modify and update an added record 
+ • **void editpassword()**– to modify/change a password 
+ • **void deleterecord()**– to delete or remove a record permanently from 
+system file 

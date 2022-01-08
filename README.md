@@ -14,6 +14,8 @@ The main features of this project include basic file handling operations. with p
 
 The functions used in this project are simple and they basically manipulate file handling and data structures. 
 
+## [OUTPUT](https://github.com/vasudevpooja/Projects-in-C/tree/main/Employee%20Record%20System/Output%20Screenshots)
+
 # [Library Management System](https://github.com/vasudevpooja/Projects-in-C/blob/main/Library%20Management/Library%20Management-Code.c) 
 
 This system is based on a concept to store and generate all the records of the books in the library. This is also considered as a simple database of book recording where the user can store books’ records easily as it is not time-consuming. Moreover, the user can add the book’s details, view a list of books, and so on. 
@@ -29,6 +31,8 @@ This system is based on a concept to store and generate all the records of the b
 • View Book List 
 
 • Edit Book Record 
+
+## [OUTPUT](https://github.com/vasudevpooja/Projects-in-C/tree/main/Library%20Management/Screenshots)
 
 # [Personal Diary Project](https://github.com/vasudevpooja/Projects-in-C/blob/main/Personal%20Diary/Personal%20Diary.c) 
 
@@ -60,6 +64,8 @@ The system can provide all necessary functions that can manage the diary detail 
 
 • **void deleterecord()**– to delete or remove a record permanently from system file 
 
+## [OUTPUT](https://github.com/vasudevpooja/Projects-in-C/tree/main/Personal%20Diary/Screenshots)
+
 # [Phonebook Management System](https://github.com/vasudevpooja/Projects-in-C/blob/main/Phonebook%20Records/main.c)
 
 **Features:**
@@ -83,3 +89,5 @@ This allows the user to edit the phone number and person name corresponding to a
 5. **Delete phone record:** 
 
 This deletes added phone record from the file. The user needs to provided the phone number to be deleted from phonebook management system. 
+
+## [OUTPUT](https://github.com/vasudevpooja/Projects-in-C/tree/main/Phonebook%20Records/Output%20Screenshots)
